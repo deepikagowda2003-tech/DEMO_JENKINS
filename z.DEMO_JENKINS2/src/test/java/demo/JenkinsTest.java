@@ -10,7 +10,9 @@ public class JenkinsTest {
 		Reporter.log(">>>>>>>>>>>>>>>>Hi from Jenkins>>>>>>>>>>>>>>>>>>>>>>",true);
 		
 		Reporter.log(">>>>>>>>>>>>>>>>Hi from Jenkins>>>>>>>>>>>>>>>>>>>>>>",true);
-	
 		
+		Reporter.log(">>>>>>>>>>>>>>>>Hi from Jenkins>>>>>>>>>>>>>>>>>>>>>>",true);
+	
+			
 	}
 }
