@@ -9,8 +9,8 @@ public class Jenkins {
 	public void test() {
 		Reporter.log(">>>>>>>>>>>>>>>>Hi from Jenkins>>>>>>>>>>>>>>>>>>>>>>",true);
 		
+		Reporter.log(">>>>>>>>>>>>>>>>Hi from Jenkins>>>>>>>>>>>>>>>>>>>>>>",true);
 	
-		
 		
 	}
 }
